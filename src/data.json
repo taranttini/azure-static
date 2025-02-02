@@ -1,0 +1,474 @@
+{
+	"menu": {
+		"main": [
+			{
+				"id": "sobre",
+				"title": "Sobre",
+				"icon": "person_pin"
+			},
+			{
+				"id": "habilidades",
+				"title": "Habilidades",
+				"icon": "task"
+			},
+			{
+				"id": "academico",
+				"title": "Acadêmico",
+				"icon": "grade"
+			},
+			{
+				"id": "experiencia",
+				"title": "Experiência",
+				"icon": "business"
+			},
+			{
+				"id": "certificacoes",
+				"title": "Certificações",
+				"icon": "business_center"
+			},
+			{
+				"id": "cursos",
+				"title": "Cursos",
+				"icon": "menu_book"
+			},
+			{
+				"id": "freelance",
+				"title": "Freelance",
+				"icon": "local_cafe"
+			},
+			{
+				"id": "hobby",
+				"title": "Hobby",
+				"icon": "keyboard"
+			}
+		]
+	},
+	"pages": [
+		{
+			"id": "sobre",
+			"title": "Sobre",
+			"description": null,
+			"items": [
+				{
+					"title": "dev...",
+					"description": "Tarantini Pereira, 41 anos, pai de 2 crianças lindas e maravilhosas Nicole (11 anos) e Benjamin (7 anos), autodidata e curioso a respeito de tecnologia no ramo desenvolvimento de software. \nBusco sempre estudar e aprender, acho que uma hora vou dar um 'crash' na mente. \nGosto de livros, netflix, podcast, lol e youtube dev."
+				}
+			]
+		},
+		{
+			"id": "academico",
+			"title": "Acadêmico",
+			"description": null,
+			"items": [
+				{
+					"title": "FAM - Faculdade das Americas",
+					"description": "EAD - Graduação em Banco de Dados (2023)"
+				},
+				{
+					"title": "IBTA - Instituto Brasileiro de Tecnologia Avançada",
+					"description": "Pós em Engenharia de Software (2006 - 2007)"
+				},
+				{
+					"title": "Universidade Bandeirante de São Paulo",
+					"description": "Graduação em Análise de Sistemas (2002 - 2006)"
+				}
+			]
+		},
+		{
+			"id": "habilidades",
+			"title": "Habilidades",
+			"description": null,
+			"items": [
+				{
+					"type": "skill",
+					"title": "csharp",
+					"grade": 5
+				},
+				{
+					"type": "skill",
+					"title": "delphi",
+					"grade": 3
+				},
+				{
+					"type": "skill",
+					"title": "node",
+					"grade": 4
+				},
+				{
+					"type": "skill",
+					"title": "sqlserver",
+					"grade": 4
+				},
+				{
+					"type": "skill",
+					"title": "oracle",
+					"grade": 4
+				},
+				{
+					"type": "skill",
+					"title": "docker",
+					"grade": 3
+				},
+				{
+					"type": "skill",
+					"title": "vue",
+					"grade": 2
+				},
+				{
+					"type": "skill",
+					"title": "angular",
+					"grade": 4
+				},
+				{
+					"type": "skill",
+					"title": "react",
+					"grade": 3
+				},
+				{
+					"type": "skill",
+					"title": "rust",
+					"grade": 1
+				},
+				{
+					"type": "skill",
+					"title": "git",
+					"grade": 3
+				}
+			]
+		},
+		{
+			"id": "experiencia",
+			"title": "Experiência",
+			"description": "Experiência profissional adquirida ao decorrer dos anos, trabalhando nas seguintes empresas.",
+			"items": [
+				{
+					"type": "employee",
+					"title": "Tarantini Tecnologia em Informática LTDA",
+					"ocupation": "Proprietário",
+					"period": "05/2013 - Presente",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"all"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "Crefisa",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "07/2022 - present",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"angular",
+						"c#",
+						"docker",
+						"git",
+						"microseviço",
+						"mock/moq",
+						"netcore",
+						"nodejs",
+						"openshift",
+						"oracle",
+						"rest",
+						"webapi"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "200dev",
+					"client": "Crefisa",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "11/2021 - 07/2022",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"angular",
+						"c#",
+						"docker",
+						"git",
+						"microseviço",
+						"mock/moq",
+						"netcore",
+						"nodejs",
+						"openshift",
+						"oracle",
+						"rest",
+						"webapi"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "Certsys",
+					"client": "Neon",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "01/2018 - 11/2021",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"angular",
+						"c#",
+						"docker",
+						"git",
+						"helm",
+						"jquery",
+						"kafka",
+						"kubernetes",
+						"microseviço",
+						"mock/moq",
+						"mongodb",
+						"mvc",
+						"netcore",
+						"nodejs",
+						"rabbitmq",
+						"rest",
+						"sqlserver",
+						"webapi"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "G&P",
+					"client": "Sefaz SP / Prodesp",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "09/2018 - 11/2018",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"ajax",
+						"c#",
+						"git",
+						"jquery",
+						"mock/moq",
+						"mvc",
+						"netframework",
+						"nodejs",
+						"oracle",
+						"rest",
+						"soap",
+						"sqlserver",
+						"vue",
+						"webform"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "Sofhar",
+					"client": "Sefaz SP / Prodesp",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "02/2013 - 02/2018",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"ajax",
+						"c#",
+						"jquery",
+						"netframework",
+						"oracle",
+						"rest",
+						"soap",
+						"sqlserver",
+						"webform"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "TechResult IT Solutions",
+					"client": "Sefaz SP / Prodesp",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "05/2009 - 02/2013",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"ajax",
+						"c#",
+						"jquery",
+						"netframework",
+						"oracle",
+						"soap",
+						"sqlserver",
+						"webform"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "Sefaz SP",
+					"client": "Prodesp",
+					"ocupation": "Assistente Técnico da Fazenda Estadual II",
+					"period": "04/2008 - 05/2009",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"ajax",
+						"c#",
+						"netframework",
+						"oracle",
+						"soap",
+						"sqlserver",
+						"webform"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "Capgemini / CPM Braxis / Unitch Tecnologia",
+					"client": "Sefaz SP / Prodesp",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "04/2006 - 05/2008",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"c#",
+						"netframework",
+						"oracle",
+						"soap",
+						"sqlserver",
+						"webform"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "Vayon",
+					"client": "FBiz / Fulano",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "02/2006 - 04/2006",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"asp",
+						"sqlserver"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "Grupo HDI",
+					"ocupation": "Analista de Sistemas / Desenvolvedor",
+					"period": "09/2005 - 02/2006",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"c#",
+						"netframework",
+						"sqlserver",
+						"winform"
+					]
+				},
+				{
+					"type": "employee",
+					"title": "Retesp",
+					"ocupation": "Auxiliar de CPD",
+					"period": "05/2002 - 02/2005",
+					"location": "São Paulo, Brasil",
+					"techs": [
+						"delphi",
+						"firebird",
+						"flash",
+						"php"
+					]
+				}
+			]
+		},
+		{
+			"id": "certificacoes",
+			"title": "Certificações",
+			"items": [
+				{
+					"title": "Microsoft",
+					"description": "Programming in HTML5 with JavaScript and CSS3 Specialist – 11/2012"
+				},
+				{
+					"title": "Microsoft",
+					"description": "MCTS – Microsoft Certified Technology Specialist – 07/2011"
+				},
+				{
+					"title": "Microsoft",
+					"description": "NET Framework 4, Web Applications – 07/2011"
+				},
+				{
+					"title": "Microsoft",
+					"description": "MCP – Microsoft Certified Professional – 07/2011"
+				},
+				{
+					"title": "Microsoft",
+					"description": "TS: Microsoft .NET Framework – Application Development Foundation – 07/2011"
+				},
+				{
+					"title": "Microsoft",
+					"description": "TS: Web Applications Development with Microsoft .NET Framework – 07/2011"
+				}
+			]
+		},
+		{
+			"id": "cursos",
+			"title": "Cursos",
+			"items": [
+				{
+					"title": "Red Hat Trainin and Certification",
+					"description": "Red Hat System Administration I (RH124)"
+				},
+				{
+					"title": "School Of Net / Code Education",
+					"description": "Full Cycle"
+				},
+				{
+					"title": "Rocketseat",
+					"description": "Bootcamp GoStack React"
+				},
+				{
+					"title": "Fazesp",
+					"description": "SCRUM Básico"
+				},
+				{
+					"title": "Udemy",
+					"description": "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)"
+				},
+				{
+					"title": "Udemy",
+					"description": "Do Zero à Nuvem: API Restful com NodeJS, Restify e MongoDB"
+				},
+				{
+					"title": "Udemy",
+					"description": "Vue.js Essentials - 3 Course Bundle"
+				},
+				{
+					"title": "KA Solution",
+					"description": "Asp.Net Framework 4.0"
+				}
+			]
+		},
+		{
+			"id": "freelance",
+			"title": "Freelance",
+			"description": "Trabalhos realizados como Freelance, e que serviu muito de experiência.",
+			"items": [
+				{
+					"title": "2014 – iParla",
+					"description": "Desenvolvimento de site de notícias/blog, utilizando PHP, MySql, JavaScript."
+				},
+				{
+					"title": "2012 – Grupo Furia Campeira",
+					"description": "Desenvolvimento de site para grupo musical, utilizando PHP, MySql, JavaScript e jQuery"
+				},
+				{
+					"title": "2012 – Enjesa Construções e Empreendimentos",
+					"description": "Desenvolvimento de ferramenta para atendimento online (chat) utilizando PHP, MySql, JavaScript e jQuery"
+				},
+				{
+					"title": "2011 – Enjesa Construções e Empreendimentos",
+					"description": "Desenvolvimento de site empresarial, utilizando PHP, Drupal, MySql."
+				}
+			]
+		},
+		{
+			"id": "hobby",
+			"title": "Hobby",
+			"description": "Trabalhos realizados como hobby e estudo.",
+			"items": [
+				{
+					"title": "2017 – Aplicativo para Google PlayStore: Nicole ABC",
+					"description": "Desenvolvimento de aplicativo ajudar a conhecer o alfabeto, utilizando WebView e JavaScript"
+				},
+				{
+					"title": "2016 – Aplicativo para ChromeWebStore: Ferramenta Meu Cartola FC",
+					"description": "Desenvolvimento de aplicativo para acompanhar a pontuação em tempo real dos times e jogadores, utilizando ReactJS e API"
+				},
+				{
+					"title": "2015 – Aplicativo para Google PlayStore: Pensar e Fazer",
+					"description": "Desenvolvimento de jogo educacional/medicinal, utilizando WebView e JavaScript"
+				},
+				{
+					"title": "2015 – Aplicativo para Google PlayStore: Dofus Archmonster",
+					"description": "Desenvolvimento de aplicativo para controlar a lista de monstros capturados, utilizando WebView, JavaScript, Firebase Google, Cloud Google"
+				}
+			]
+		}
+	]
+}
